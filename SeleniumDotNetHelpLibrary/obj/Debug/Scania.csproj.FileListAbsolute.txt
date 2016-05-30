@@ -1,0 +1,10 @@
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\Scania.dll
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\Scania.pdb
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\nunit.framework.dll
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\WebDriver.dll
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\WebDriver.Support.dll
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\nunit.framework.xml
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\WebDriver.xml
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\bin\Debug\WebDriver.Support.xml
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\obj\Debug\Scania.dll
+\\global.scd.scania.com\home\Se\121\mivhde\Documents\Visual Studio 2013\Projects\Scania\Scania\obj\Debug\Scania.pdb
